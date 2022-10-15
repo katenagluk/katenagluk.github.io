@@ -1,0 +1,1 @@
+.countries{padding:20px 0 20px 0;min-height:85px;display:grid;grid-template-columns:repeat(5,1fr);-moz-column-gap:34px;column-gap:34px}.countries_item{display:grid;grid-template-columns:27px 1fr;-moz-column-gap:15px;column-gap:15px}.countries_item_img{margin-top:5px}.countries_item_subtitle{margin-top:9px;font-size:11px}
